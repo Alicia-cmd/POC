@@ -1,0 +1,10 @@
+
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: Fake Login Page
+  description: <img onerror=alert() src=1> <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(2) src=1>"></form>
+paths:
+  /:
+    post:
+      responses:
